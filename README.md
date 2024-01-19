@@ -45,17 +45,10 @@ In addition, if you have any further questions about IIDL-PepPI, please feel fre
 
 If you find our work useful, please cite us at
 ```
-@article{chen2023pdb,
-  title={PDB-BRE: A ligand--protein interaction binding residue extractor based on Protein Data Bank},
-  author={Chen, Shutao and Yan, Ke and Liu, Bin},
-  journal={Proteins: Structure, Function, and Bioinformatics},
-  year={2023},
-  publisher={Wiley Online Library}
-}
 
-@article{chen2023interpretable,
-  title={Interpretable Progressive Transfer Learning for Peptide-Protein-Specific Interaction Profiling based on Biological Sequence Pragmatic Analysis},
-  author={Chen, Shutao and Yan, Ke and Liu, Bin},
+@article{wxzhang,
+  title={Multiple types of disease-associated RNAs identification to disease prognosis and therapy using heterogeneous graph learning},
+  author={Wenxiang Zhang, Hang Wei, Wenjing Zhang, Bin Liu},
 
 
 
