@@ -36,6 +36,27 @@ tqdm  4.64.0
 >
 > For more information on other cuda versions, see the [pytorch installation documentation](https://pytorch.org/).
 
+# 3 Problem feedback
+If you have questions on how to use iRNADis-PT, feel free to raise questions in the [discussions section](https://github.com/zwx94/iRNADis-PT/discussions). If you identify any potential bugs, feel free to raise them in the [issuetracker](https://github.com/zwx94/iRNADis-PT/issues).
+
+In addition, if you have any further questions about IIDL-PepPI, please feel free to contact us [**wxzhang@bliulab.net**]
+
+# 4 Citation
+
+If you find our work useful, please cite us at
+```
+@article{chen2023pdb,
+  title={PDB-BRE: A ligand--protein interaction binding residue extractor based on Protein Data Bank},
+  author={Chen, Shutao and Yan, Ke and Liu, Bin},
+  journal={Proteins: Structure, Function, and Bioinformatics},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+
+@article{chen2023interpretable,
+  title={Interpretable Progressive Transfer Learning for Peptide-Protein-Specific Interaction Profiling based on Biological Sequence Pragmatic Analysis},
+  author={Chen, Shutao and Yan, Ke and Liu, Bin},
+
 
 
 
