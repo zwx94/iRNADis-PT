@@ -18,7 +18,7 @@ conda activate iRNADis
 The main dependencies used in this project are as follows (for more information, please see the `environment.yaml` file):
 
 ```
-python  3.10
+python  3.7.13
 biopython 1.81
 huggingface-hub 0.19.4
 numpy 1.26.2
