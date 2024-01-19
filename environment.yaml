@@ -1,4 +1,4 @@
-name: py37_torch1101_cu111
+name: iRNADis
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - conda-forge
