@@ -4,3 +4,12 @@ Identifying multiple types of disease-associated RNAs is of great significance f
 
 ![iRNADis-PT](/imgs/iRNADis-PT.png)
 **Fig. 1 Overall of the iRNADis-PT framework. a** workflow of data extraction and heterogeneous network construction. We first extract CNA data and expression information data from the TCGA database, based on which RNA features are extracted via copy number variation analysis and differential expression analysis. RNA similarities are calculated by the Pearson Correlation Coefficient to construct RNA networks. Next, we download RNA interactions and RNA-disease associations, and construct disease network. Finally, the heterogeneous network is constructed based on RNA networks, disease network, RNA interactions, and RNA-disease associations. **b** The overall framework of iRNADis-PT for identifying multiple types of disease-associated RNAs. The constructed heterogeneous network is fed into heterogeneous graph learning to extract node features, based on which we obtain RNA-disease association features inputting into MLP to predict candidate disease-associated RNAs. **c** Disease prognosis and therapy analysis. Based on predicted candidate disease-associated RNAs, we conduct differential expression analysis, classify risk groups, and drug sensitive analysis to explore the pathogenesis of disease.
+
+# 1 Installation
+
+## 1.1 Create conda environment
+
+```
+conda create -n iRNADis python=3.10
+conda activate iRNADis
+```
