@@ -28,3 +28,17 @@ torch-geometric  2.1.0
 tqdm  4.64.0
 ```
 
+> **Note** If you have an available GPU, the accelerated iRNADis-PT can be used to identify multiple types of disease-associated RNAs, and then apply these identified disease-associated RNAs to pathological analysis of disease prognosis and therapy. Change the URL below to reflect your version of the cuda toolkit. However, do not provide a number greater than your installed cuda toolkit version!
+> 
+> ```
+> pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu111
+> ```
+>
+> For more information on other cuda versions, see the [pytorch installation documentation](https://pytorch.org/).
+
+
+
+
+
+
+
