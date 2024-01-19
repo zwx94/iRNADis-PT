@@ -19,16 +19,12 @@ The main dependencies used in this project are as follows (for more information,
 
 ```
 python  3.7.13
-biopython 1.81
-huggingface-hub 0.19.4
-numpy 1.26.2
-pandas 2.1.3
-scikit-learn 1.3.2
-scipy 1.11.4
-tokenizers 0.15.0
-torch 2.1.1+cu118
-torchaudio 2.1.1+cu118
-tqdm 4.66.1
-transformers 4.35.2
+numpy  1.21.6
+scipy  1.7.3
+pandas  1.3.5
+scikit-learn  1.0.2
+torch  1.10.1+cu111
+torch-geometric  2.1.0
+tqdm  4.64.0
 ```
 
