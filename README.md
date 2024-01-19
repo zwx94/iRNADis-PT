@@ -13,3 +13,22 @@ Identifying multiple types of disease-associated RNAs is of great significance f
 conda create -n iRNADis python=3.10
 conda activate iRNADis
 ```
+
+## 1.2 Requirements
+The main dependencies used in this project are as follows (for more information, please see the `environment.yaml` file):
+
+```
+python  3.10
+biopython 1.81
+huggingface-hub 0.19.4
+numpy 1.26.2
+pandas 2.1.3
+scikit-learn 1.3.2
+scipy 1.11.4
+tokenizers 0.15.0
+torch 2.1.1+cu118
+torchaudio 2.1.1+cu118
+tqdm 4.66.1
+transformers 4.35.2
+```
+
