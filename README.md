@@ -37,9 +37,7 @@ tqdm  4.64.0
 > For more information on other cuda versions, see the [pytorch installation documentation](https://pytorch.org/).
 
 # 3 Problem feedback
-If you have questions on how to use iRNADis-PT, feel free to raise questions in the [discussions section](https://github.com/zwx94/iRNADis-PT/discussions). If you identify any potential bugs, feel free to raise them in the [issuetracker](https://github.com/zwx94/iRNADis-PT/issues).
-
-In addition, if you have any further questions about IIDL-PepPI, please feel free to contact us [**wxzhang@bliulab.net**]
+If you have any further questions about iRNADis-PT, please feel free to contact us [**wxzhang@bliulab.net**]
 
 # 4 Citation
 
