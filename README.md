@@ -10,7 +10,7 @@ Identifying multiple types of disease-associated RNAs is of great significance f
 ## 1.1 Create conda environment
 
 ```
-conda create -n iRNADis python=3.10
+conda create -n iRNADis
 conda activate iRNADis
 ```
 
